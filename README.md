@@ -1,5 +1,16 @@
 # Regulatory Readiness Check
 
+The resource to be used for the compliance context can be derived form ;
+https://www.indiacode.nic.in/?utm_source=chatgpt.com
+https://www.meity.gov.in/?utm_source=chatgpt.com
+https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf?utm_source=chatgpt.com
+https://www.meity.gov.in/?utm_source=chatgpt.com
+
+And also form Threatsys hosted domains ;
+.com
+.ai
+.co.in
+
 Blue print for the working mechanism will be like the following ;
 ```text
 Regulatory-Readiness-Check/

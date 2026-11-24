@@ -1,7 +1,7 @@
 # Regulatory Readiness Check
 
 Blue print for the working mechanism will be like the following ;
-
+```text
 Regulatory-Readiness-Check/
 ├── .github/
 │   └── workflows/
@@ -50,3 +50,4 @@ Regulatory-Readiness-Check/
         │   └── DocumentCard.tsx         # [21] Displays section, plain-English summary, & effective date badge
         └── pages/
             └── KnowledgeCentre.tsx      # [22] Main searchable library with category tabs & legal filters
+```

@@ -11,6 +11,15 @@ And also form Threatsys hosted domains ;
 .ai
 .co.in
 
+The working process was more on persistence building rather just coding :-
+1. Understand its architecture
+2. Understand why each technology is selected
+3. Design the database
+4. Implement the backend
+5. Build the frontend
+6. Test functionality and security
+7. Document the work in GitHub
+
 Blue print for the working mechanism will be like the following ;
 ```text
 Regulatory-Readiness-Check/
